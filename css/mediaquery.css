@@ -1,0 +1,1308 @@
+/* @media screen and (min-width:1441px) {
+
+    .navbar ul {
+        padding-left: 40%;
+    }
+
+    .change {
+        width: 58%;
+    }
+
+    .homebord-lf {
+        right: 111px;
+    }
+}
+
+@media screen and (max-width:1440px) {
+
+    .animationborder {
+        width: 55%;
+    }
+
+    .navbar ul {
+        padding-left: 42%;
+    }
+
+    .About-section .borderdiv {
+        width: 98%;
+        height: 370px;
+    }
+
+    .About-content h2 {
+        width: 95%;
+        font-size: 27px;
+
+    }
+
+    .About-content p {
+        font-size: 14px;
+
+    }
+
+    .ourservices h2 {
+        font-size: 32px;
+
+    }
+
+    .services-section {
+        padding-bottom: 2%;
+        margin-bottom: 4%;
+    }
+
+    .Services-all {
+        padding-top: 3%;
+
+    }
+
+    .Services-one h3 {
+        font-size: 19px;
+
+    }
+
+    .Services-one p {
+        font-size: 12px;
+
+    }
+
+    .ourPortfolio h2 {
+        font-size: 32px;
+
+    }
+
+    .Portfolio-links {
+        margin-top: 2%;
+
+    }
+
+    .Feedback h2 {
+        font-size: 32px;
+        width: 100%;
+
+    }
+
+    .blog {
+        padding-bottom: 3%;
+        padding-top: 3%;
+        margin-top: 8%;
+
+    }
+
+    .a-Font {
+        font-size: 20px;
+
+    }
+
+    .blog-item2 {
+        padding-bottom: 1%;
+
+    }
+
+    .ourblog h2 {
+        font-size: 32px;
+
+    }
+
+    .contact {
+        margin-top: 1%;
+        padding-top: 3%;
+    }
+
+    .contactus h2 {
+        font-size: 32px;
+    }
+}
+
+@media screen and (max-width:1439px) and (min-width:1024px) {
+
+    .navbar ul {
+        padding-left: 33%;
+    }
+
+    .navbar li a {
+        font-size: 15px;
+
+    }
+
+    .logo {
+        margin-top: 1.2%;
+    }
+
+    .logo a {
+        font-weight: 600;
+        font-size: 24px;
+    }
+
+    .intro h3 {
+        font-size: 16px;
+    }
+
+    .intro h1 {
+        font-size: 60px;
+
+    }
+
+    .intro h4 {
+        font-size: 17px;
+
+    }
+
+    .homebord-lf {
+        float: right;
+        height: 22px;
+        right: 93px;
+        top: 108px;
+    }
+
+    .About-section .borderdiv {
+        height: 175px;
+    }
+
+    .profileimg {
+        left: 13%;
+
+    }
+
+    .About-section {
+        float: none;
+        width: 151px;
+    }
+
+    .About-content {
+        margin-top: 2%;
+        float: none;
+        width: 95%;
+        margin-left: 1%;
+    }
+
+    .About-content h2 {
+        font-size: 24px;
+        width: 95%;
+
+    }
+
+    .bord-lf {
+        height: 21px;
+        margin-top: 2.5px;
+
+    }
+
+    .About-content p {
+        font-size: 13px;
+        width: 75%;
+        line-height: 136%;
+    }
+
+    .ourservices h2 {
+        font-weight: 600;
+        font-size: 26px;
+
+    }
+
+    .services-section {
+        padding-bottom: 5%;
+        margin-bottom: 7%;
+    }
+
+    .Services-one h3 {
+        font-size: 13px;
+        font-weight: 550;
+    }
+
+    .Services-one p {
+        font-size: 12px;
+
+    }
+
+    .Services-all {
+        padding-top: 2%;
+
+    }
+
+    .ourPortfolio h2 {
+        font-size: 31px;
+        font-weight: 700;
+    }
+
+    .number-Section h3 {
+        font-size: 19px;
+        font-weight: 700;
+    }
+
+    .number-Section h5 {
+        padding-top: 0;
+        margin-top: 0;
+        font-size: 13px;
+    }
+
+    .number-Section h3 {
+        margin-bottom: 3px;
+        padding-bottom: 0;
+        font-size: 19px;
+        font-weight: 700;
+    }
+
+    .Feedback h2 {
+        font-size: 31px;
+        font-weight: 600;
+        margin-bottom: 0%;
+    }
+
+    .Feedback-content h3 {
+        font-size: 21px;
+        font-weight: 600;
+    }
+
+    .Feedback-Section {
+        width: 86%;
+    }
+
+    .blog {
+        margin-top: 8%;
+        padding-top: 1%;
+        padding-bottom: 3%;
+    }
+
+    .ourblog h2 {
+        font-size: 32px;
+
+    }
+
+    .a-Font {
+        font-size: 16px;
+
+    }
+
+    .blog-item1 p {
+        line-height: 125%;
+        width: 85%;
+    }
+
+    .blog-item2 p {
+        line-height: 125%;
+        width: 85%;
+    }
+
+    .blog-item3 p {
+        line-height: 125%;
+        width: 85%;
+    }
+
+    .ytp-cued-thumbnail-overlay-image {
+        height: 114%;
+
+    }
+
+    .contact {
+        margin-top: 1%;
+        padding-top: 2%;
+    }
+
+    .contactus h2 {
+        font-size: 32px;
+        font-weight: 700;
+    }
+
+    .contact-section form button {
+        padding: 2% 5%;
+    }
+
+    .fa-2xl {
+        font-size: 1.5em;
+    }
+
+    .fa-sm {
+        font-size: 1em;
+
+    }
+}
+
+@media screen and (max-width:1023px) and (min-width:768px) {
+
+    .logo {
+        margin-top: 2%;
+
+    }
+
+    .logo a {
+        font-weight: 600;
+        font-size: 20px;
+    }
+
+    .navbar ul {
+        padding-left: 15%;
+
+    }
+
+    .navbar li a {
+        font-size: 14px;
+    }
+
+    .intro h3 {
+        font-weight: 500;
+        font-size: 15px;
+    }
+
+    .intro h1 {
+        font-size: 36px;
+        font-weight: 600;
+    }
+
+    .intro h4 {
+        font-size: 17px;
+        font-weight: 300;
+
+    }
+
+    .change {
+        width: 71%;
+
+    }
+
+    .About-section .borderdiv {
+        border: 4px #555555 solid;
+        height: 189px;
+    }
+
+    .About-content h2 {
+        font-size: 20px;
+        width: 96%;
+
+    }
+
+    .bord-lf {
+        height: 18px;
+        margin-top: 2px;
+    }
+
+    .About-content p {
+        font-size: 13px;
+        width: 106%;
+        line-height: 157%;
+    }
+
+    .ul-float .f-left li {
+        font-size: 10px;
+
+    }
+
+    .ul-float .f-right {
+        font-size: 10px;
+        margin-right: 5%;
+
+
+    }
+
+    .ul-float .f-left {
+        width: 29%;
+
+    }
+
+    .ul-float {
+        width: 115%;
+    }
+
+    .ourservices h2 {
+        font-size: 29px;
+        font-weight: 600;
+
+    }
+
+    .fa-2xl {
+        font-size: 1.5em;
+    }
+
+    .Services-one h3 {
+        font-size: 12px;
+
+    }
+
+    .Services-one p {
+        font-size: 11px;
+    }
+
+    .ourPortfolio h2 {
+        font-size: 29px;
+        font-weight: 600;
+
+    }
+
+    .number-Section h3 {
+        font-size: 17px;
+        font-weight: 500;
+
+    }
+
+    .number-Section h5 {
+        font-size: 11px;
+    }
+
+    .Feedback h2 {
+        font-size: 29px;
+        font-weight: 600;
+    }
+
+    .Feedback-Section {
+        width: 100%;
+    }
+
+    .Feedback-content h3 {
+        font-size: 21px;
+    }
+
+    .ourblog h2 {
+        font-size: 29px;
+        font-weight: 600;
+    }
+
+    .blog-item2 {
+        width: 100%;
+    }
+
+    .blog-item3 {
+        width: 100%;
+    }
+
+    .blog-item1 {
+        width: 100%;
+    }
+
+    .contact {
+        margin-top: 0%;
+        padding-top: 2%;
+    }
+
+    .contactus h2 {
+        font-size: 29px;
+        font-weight: 600;
+    }
+}
+
+@media screen and (max-width:768px) and (min-width:425px) {
+    .logo {
+        display: none;
+    }
+
+    .navbar ul {
+        padding-left: 0;
+        padding-left: 0%;
+
+    }
+
+    .navbar {
+        width: 100%;
+
+    }
+
+    .navbar li {
+        padding-left: 0%;
+    }
+
+    .navbar li a {
+        font-size: 12px;
+    }
+
+    .intro h3 {
+        font-size: 12px;
+        font-weight: 500;
+
+    }
+
+    .intro h1 {
+        font-size: 24px;
+        font-weight: 600;
+    }
+
+    .intro h4 {
+        font-size: 7px;
+    }
+
+    .About-section .borderdiv {
+        border: 3px #555555 solid;
+        height: 106px;
+
+    }
+
+    .bord-lf {
+        height: 19px;
+        margin-top: 0.5%;
+    }
+
+    .About-content h2 {
+        font-size: 19px;
+        width: 97%;
+    }
+
+    .About-content p {
+        font-size: 6px;
+        line-height: 150%;
+    }
+
+    .ul-float .f-left li {
+        font-size: 6px;
+    }
+
+    .ul-float .f-right {
+        font-size: 10px;
+        margin-right: 5%;
+        font-size: 7px;
+        padding-left: 0%;
+    }
+
+    .ul-float .f-left {
+        width: 34%;
+
+    }
+
+    .ul-float {
+        width: 115%;
+    }
+
+    .download-btn {
+        font-size: 10px;
+
+    }
+
+    .hire-btn {
+        font-size: 10px;
+
+    }
+
+    .ourservices h2 {
+        font-size: 29px;
+        font-weight: 600;
+
+    }
+
+    .fa-2xl {
+        font-size: 1em;
+    }
+
+    .Services-one {
+        width: 50%;
+
+    }
+
+    .Services-one h3 {
+        font-size: 12px;
+
+    }
+
+    .Services-one p {
+        font-size: 11px;
+    }
+
+    .ourPortfolio h2 {
+        font-size: 21px;
+        font-weight: 600;
+
+    }
+
+    .Portfolio-image1 {
+        width: 48%;
+
+    }
+
+    .Portfolio-image2 {
+        width: 48%;
+
+    }
+
+    .Portfolio-image3 {
+        width: 100%;
+
+    }
+
+    .Portfolio-image4 {
+        width: 48%;
+
+    }
+
+    .Portfolio-image5 {
+        width: 48%;
+
+    }
+
+    .Portfolio-image6 {
+        width: 100%;
+
+    }
+
+    .Portfolio-links a {
+        padding: 0% 3%;
+    }
+
+    .number-Section h3 {
+        font-size: 14px;
+        font-weight: 500;
+
+    }
+
+    .number-Section h5 {
+        font-size: 9px;
+    }
+
+    .Feedback h2 {
+        font-size: 25px;
+        font-weight: 600;
+    }
+
+    .Feedback-Section {
+        width: 100%;
+    }
+
+    .Feedback-content h3 {
+        font-size: 21px;
+    }
+
+    .blog {
+        padding-bottom: 20%;
+    }
+
+    .ourblog h2 {
+        font-size: 25px;
+        font-weight: 600;
+    }
+
+    .blog-item2 {
+        width: 100%;
+        margin-top: 3%;
+
+    }
+
+    .blog-item3 {
+        width: 100%;
+        margin-top: 3%;
+
+    }
+
+    .blog-item1 {
+        width: 100%;
+        margin-top: 3%;
+
+    }
+
+    .contact {
+        margin-top: 0%;
+        padding-top: 2%;
+    }
+
+    .contactus h2 {
+        font-size: 25px;
+        font-weight: 600;
+    }
+
+    .contact-section form button {
+
+        margin-left: 35px;
+    }
+
+    .footer-Section p {
+        font-size: 15px;
+    }
+} */
+
+@media screen and (max-width: 1400px) {
+    .container {
+        width: 75rem;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .container {
+        width: 65rem;
+    }
+
+    @keyframes mov1 {
+        0% {
+            right: 47%;
+            opacity: 0;
+
+        }
+
+        20% {
+            content: " Developer |";
+            right: 33%;
+            opacity: 1;
+
+        }
+
+        30% {
+            content: " Developer |";
+            right: 33%;
+            opacity: 1;
+
+
+        }
+
+        40% {
+            right: 47%;
+            opacity: 0;
+
+        }
+
+        50% {
+            right: 47%;
+            opacity: 0;
+
+        }
+
+        60% {
+            content: " Designer |";
+            right: 35%;
+            opacity: 1;
+
+        }
+
+        70% {
+            content: " Designer |";
+            right: 35%;
+            opacity: 1;
+
+        }
+
+
+        80% {
+            right: 47%;
+            opacity: 0;
+        }
+
+        90% {
+            content: " Developer |";
+            right: 33%;
+            opacity: 1;
+        }
+
+        100% {
+            content: " Developer |";
+            right: 33%;
+            opacity: 1;
+
+        }
+    }
+
+    .about-btn {
+        width: 45%;
+
+    }
+}
+
+@media screen and (max-width: 1040px) {
+    .container {
+        width: 55rem;
+    }
+
+    @keyframes mov1 {
+        0% {
+            right: 47%;
+            opacity: 0;
+
+        }
+
+        20% {
+            content: " Developer |";
+            right: 30%;
+            opacity: 1;
+
+        }
+
+        30% {
+            content: " Developer |";
+            right: 30%;
+            opacity: 1;
+
+
+        }
+
+        40% {
+            right: 47%;
+            opacity: 0;
+
+        }
+
+        50% {
+            right: 47%;
+            opacity: 0;
+
+        }
+
+        60% {
+            content: " Designer |";
+            right: 31%;
+            opacity: 1;
+
+        }
+
+        70% {
+            content: " Designer |";
+            right: 31%;
+            opacity: 1;
+
+        }
+
+
+        80% {
+            right: 47%;
+            opacity: 0;
+        }
+
+        90% {
+            content: " Developer |";
+            right: 30%;
+            opacity: 1;
+        }
+
+        100% {
+            content: " Developer |";
+            right: 30%;
+            opacity: 1;
+
+        }
+    }
+
+    .about-btn {
+        width: 53%;
+    }
+
+    .Services-one h3 {
+        font-size: 1rem;
+    }
+}
+
+@media screen and (max-width: 880px) {
+    .container {
+        width: 45rem;
+    }
+
+    .navbar {
+        width: 70%;
+    }
+
+    @keyframes mov1 {
+        0% {
+            right: 45%;
+            opacity: 0;
+
+        }
+
+        20% {
+            content: " Developer |";
+            right: 25%;
+            opacity: 1;
+
+        }
+
+        30% {
+            content: " Developer |";
+            right: 25%;
+            opacity: 1;
+
+
+        }
+
+        40% {
+            right: 45%;
+            opacity: 0;
+
+        }
+
+        50% {
+            right: 45%;
+            opacity: 0;
+
+        }
+
+        60% {
+            content: " Designer |";
+            right: 27%;
+            opacity: 1;
+
+        }
+
+        70% {
+            content: " Designer |";
+            right: 27%;
+            opacity: 1;
+
+        }
+
+
+        80% {
+            right: 45%;
+            opacity: 0;
+        }
+
+        90% {
+            content: " Developer |";
+            right: 25%;
+            opacity: 1;
+        }
+
+        100% {
+            content: " Developer |";
+            right: 25%;
+            opacity: 1;
+
+        }
+    }
+
+    .profileimg {
+        position: relative;
+    }
+
+    .About-section .borderdiv {
+        border: none;
+        height: auto;
+    }
+
+    .About-section {
+        width: 35%;
+    }
+
+    .About-content {
+        width: 60%;
+
+    }
+
+    .ul-float {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .About-content h2 {
+        padding-left: 2%;
+    }
+
+    .About-content h2::before {
+        top: 15%;
+    }
+
+    .about-btn {
+        width: 70%;
+    }
+
+    .Services-one {
+        width: 50%;
+    }
+
+    .Portfolio-image1 {
+        width: 49%;
+    }
+
+    .Portfolio-image2 {
+        width: 49%;
+    }
+
+    .Portfolio-image3 {
+        width: 49%;
+    }
+
+    .Portfolio-image4 {
+        width: 49%;
+    }
+
+    .Portfolio-image5 {
+        width: 49%;
+    }
+
+    .Portfolio-image6 {
+        width: 49%;
+    }
+
+    .Blog-Section {
+        flex-direction: column;
+    }
+
+    .blog-item1 {
+        width: 100%;
+    }
+
+    .blog-item2 {
+        width: 100%;
+    }
+
+    .blog-item3 {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 767px) {
+
+    .container {
+        width: 35rem;
+    }
+
+    .navbar {
+        width: 75%;
+    }
+
+    .logo {
+        width: 15%;
+    }
+
+    @keyframes mov1 {
+        0% {
+            right: 45%;
+            opacity: 0;
+
+        }
+
+        20% {
+            content: " Developer |";
+            right: 16%;
+            opacity: 1;
+
+        }
+
+        30% {
+            content: " Developer |";
+            right: 16%;
+            opacity: 1;
+
+
+        }
+
+        40% {
+            right: 45%;
+            opacity: 0;
+
+        }
+
+        50% {
+            right: 45%;
+            opacity: 0;
+
+        }
+
+        60% {
+            content: " Designer |";
+            right: 19%;
+            opacity: 1;
+
+        }
+
+        70% {
+            content: " Designer |";
+            right: 19%;
+            opacity: 1;
+
+        }
+
+
+        80% {
+            right: 45%;
+            opacity: 0;
+        }
+
+        90% {
+            content: " Developer |";
+            right: 16%;
+            opacity: 1;
+        }
+
+        100% {
+            content: " Developer |";
+            right: 16%;
+            opacity: 1;
+
+        }
+    }
+
+    .About .container {
+        flex-direction: column;
+    }
+
+    .About-section {
+        width: 95%;
+    }
+
+    .About-content {
+        width: 100%;
+    }
+
+    .About-content p {
+
+        width: 100%;
+    }
+
+    .ul-float {
+        flex-direction: column;
+    }
+
+    .about-btn {
+        width: 55%;
+    }
+
+    .Services-all {
+        flex-direction: column;
+    }
+
+    .Portfolio-images {
+        flex-direction: column;
+    }
+
+    .Portfolio-image1 {
+        width: 70%;
+    }
+
+    .Portfolio-image2 {
+        width: 70%;
+    }
+
+    .Portfolio-image3 {
+        width: 70%;
+    }
+
+    .Portfolio-image4 {
+        width: 70%;
+    }
+
+    .Portfolio-image5 {
+        width: 70%;
+    }
+
+    .Portfolio-image6 {
+        width: 70%;
+    }
+
+    .numbers .container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .f-input {
+        flex-direction: column;
+    }
+
+    .f-input input {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 587px) {
+    .container {
+        width: 30rem;
+    }
+
+    .navbar {
+        width: 85%;
+    }
+
+    .logo {
+        width: 15%;
+    }
+
+    .intro h1 {
+        font-size: 60px;
+
+    }
+
+    @keyframes mov1 {
+        0% {
+            right: 45%;
+            opacity: 0;
+
+        }
+
+        20% {
+            content: " Developer |";
+            right: 10%;
+
+            opacity: 1;
+
+        }
+
+        30% {
+            content: " Developer |";
+            right: 10%;
+
+            opacity: 1;
+
+
+        }
+
+        40% {
+            right: 45%;
+            opacity: 0;
+
+        }
+
+        50% {
+            right: 45%;
+            opacity: 0;
+
+        }
+
+        60% {
+            content: " Designer |";
+            right: 13%;
+            opacity: 1;
+
+        }
+
+        70% {
+            content: " Designer |";
+            right: 13%;
+            opacity: 1;
+
+        }
+
+
+        80% {
+            right: 45%;
+            opacity: 0;
+        }
+
+        90% {
+            content: " Developer |";
+            right: 10%;
+
+            opacity: 1;
+        }
+
+        100% {
+            content: " Developer |";
+            right: 10%;
+            opacity: 1;
+
+        }
+    }
+
+    .profileimg {
+        top: 0;
+        left: 0;
+    }
+
+    .about-btn {
+        width: 65%;
+    }
+
+    .Portfolio-images {
+        flex-direction: column;
+    }
+
+    .Portfolio-image1 {
+        width: 80%;
+    }
+
+    .Portfolio-image2 {
+        width: 80%;
+    }
+
+    .Portfolio-image3 {
+        width: 80%;
+    }
+
+    .Portfolio-image4 {
+        width: 80%;
+    }
+
+    .Portfolio-image5 {
+        width: 80%;
+    }
+
+    .Portfolio-image6 {
+        width: 80%;
+    }
+
+}
